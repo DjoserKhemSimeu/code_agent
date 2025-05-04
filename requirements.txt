@@ -4,4 +4,4 @@ transformers==4.49.0
 ragatouille==0.0.9
 pandas==2.2.3
 torch==2.6.0
-faiss-cpu==1.7.1  
+faiss-cpu==1.8.0  
